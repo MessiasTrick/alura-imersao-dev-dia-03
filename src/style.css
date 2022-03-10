@@ -36,7 +36,7 @@ body {
 }
 
 #tentativas,
-#tentativas-label {
+#tentativas-label, #limite { /* id limite adicionado para exibir na tela. */
   color: white;
 }
 
